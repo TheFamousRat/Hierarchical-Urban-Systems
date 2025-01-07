@@ -1,0 +1,24 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Hierarchical Urban Systems
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Guillaume
+    family-names: Roy
+    email: gm.roy.aq@gmail.com
+repository-code: 'https://github.com/TheFamousRat/HierarchicalUrbanSystems'
+abstract: >-
+  Method for iteratively detecting and hierarchically
+  organizing centers as urban regions, within a commuting
+  network.
+license: GPL-3.0
+version: 1.0.0
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.14605989
+date-released: '2025-01-06'
