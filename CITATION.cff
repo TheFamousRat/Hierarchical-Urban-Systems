@@ -20,5 +20,5 @@ license: GPL-3.0
 version: 1.0.0
 identifiers:
   - type: doi
-    value: 10.5281/zenodo.14605989
-date-released: '2025-01-06'
+    value: 10.5281/zenodo.14609164
+date-released: '2025-01-07'
