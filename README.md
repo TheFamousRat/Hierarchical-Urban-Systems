@@ -7,8 +7,8 @@
 
 <h1 align="center">Hierarchical Urban Systems</h1>
 
-![Tests](https://github.com/TheFamousRat/HierarchicalUrbanSystems/actions/workflows/python-package.yml/badge.svg)
-[![DOI](https://zenodo.org/badge/805814944.svg)](https://doi.org/10.5281/zenodo.14605988)
+![Tests](https://github.com/TheFamousRat/Hierarchical-Urban-Systems/actions/workflows/python-package.yml/badge.svg)
+[![DOI](https://zenodo.org/badge/913269683.svg)](https://doi.org/10.5281/zenodo.14609163)
 
 <h2>Table of Contents</h2>
 
