@@ -1,0 +1,15 @@
+src/tmpNiceFormatting.sql
+*.gpkg-shm
+*.gpkg-wal
+*.png
+*.png~
+*.shp
+*.shx
+*.prj
+*.dbf
+*.cpg
+*.shp.*
+*.pyc
+__pycache__/*
+.idea/*
+**/debug_output/*

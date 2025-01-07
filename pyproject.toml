@@ -1,0 +1,31 @@
+[tool.poetry]
+name = "hierarchical_urban_systems"
+version = "0.2.0"
+description = "Method for iteratively detecting and hierarchically organizing centers within a commuting network."
+authors = ["TheFamousRat <gpotato.gr@gmail.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+scipy = "^1.14.1"
+tqdm = "^4.66.2"
+scikit-learn = "^1.4.1.post1"
+pandas = "^2.2.0"
+dataclasses-json = "^0.6.5"
+
+
+[tool.poetry.group.dev.dependencies]
+mypy = "^1.8.0"
+black = "^24.2.0"
+pandas-stubs = "^2.2.0.240218"
+types-tqdm = "^4.66.0.20240106"
+openpyxl = "^3.1.2"
+pytest = "^8.2.2"
+pytest-cov = "^5.0.0"
+ruff = "^0.6.3"
+
+[tool.mypy]
+exclude = ['countries_data']
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
