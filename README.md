@@ -57,8 +57,11 @@ Our method works by finding the best fitting centre for every previously detecte
 <p align="center">
     <img src="img/fua_france.jpg" align="middle" width="49%">
     <img src="img/france_3_5.jpg" align="middle" width="49%">
+</p>
+<p align="center" style="margin-left:5%;margin-right:5%;">
     <i>Urban Systems in metropolitan France, following the OECD definition of Functional Urban Areas (left) and by our approach at center level 3 and 5 (right). Since our approach does not rely on density criteria, it is able to identify centers in rural areas, as well as in highly polycentric urban systems. Furthermore, large urban areas such as Paris (center-north) and Lyon (center-east) are decomposed according to the distinct, interconnected cities making up the urban region.</i>
 </p>
+
 
 ## Algorithm
 
